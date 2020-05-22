@@ -28,6 +28,11 @@ ipch
 *.VC.db
 *.VC.VC.opendb
 
+# Visual Studio files and folder
+**.vcxproj
+**.vcxproj.filters
+**.vcxproj.user
+
 ## Xcode artifacts
 project.xcworkspace
 xcuserdata
